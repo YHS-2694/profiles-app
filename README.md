@@ -1,1 +1,1 @@
-Profiles app with Github Action
+Profiles app with Github Actions
